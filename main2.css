@@ -1,0 +1,620 @@
+
+.header-line{
+    padding-top: 27px;
+
+}
+.nav-item {
+    height: 43px;
+    width: 71px;
+    color: #000;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 20px;
+    margin-right: 25px;
+    left: 2000px;
+    top: 27px;
+    position: absolute;
+}
+.nav-item{
+
+    position: absolute;
+    font-family: 'Heebo';
+    font-weight: bold;
+    height: 43px;
+    width: 71px;
+    left: 1188px;
+    top: 27px;
+}
+.nav-item2{
+    height: 43px;
+    width: 71px;
+    left: 1300px;
+    top: 27px;
+    font-weight: bold;
+    color: #000;
+    text-decoration: none;
+    font-size: 20px;
+    margin-right: 25px;
+    position: absolute;
+    font-family: 'Heebo';
+}
+.nav-item3{
+    font-weight: bold;
+    left: 1400px;
+    top: 27px;
+    right:60px;
+
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    margin-right: 25px;
+    position: absolute;
+    font-family: 'Heebo';
+}
+.header-title{
+    color: var(--Dark-Color, #21243D);
+    font-family: 'Heebo';
+    font-size: 44px;
+    width: 506px;
+    height: 105px;
+    font-weight: 700;
+    text-align: left;
+    position: absolute;
+    left: 400px;
+    top: 228px;
+}
+.header-long{
+    position: absolute;
+    left: 1000px;
+    top: 210px;
+    width: 243px;
+    height: 243px;
+    flex-shrink: 0;
+    border-radius: 243px;
+}
+
+
+
+
+.header-subtitle{
+    color: var(--Dark-Color, #21243D);
+    position: relative;
+    font-size: 16px;
+    left: 400px;
+    top: 373px;
+}
+
+.orangeButton{
+    width: 208px;
+    height: 47px;
+    flex-shrink: 0;
+    border-radius: 2px;
+    background: var(--Primary, #FF6464);
+    color: #fff; /* Белый цвет текста (против фона) */
+    border: none; /* Убираем границу, если не требуется */
+    cursor: pointer;
+    position: absolute;
+    left: 400px;
+    top: 530px;
+    z-index: 1;
+}
+
+
+.myButton {
+    width: 208px;
+    height: 47px;
+    flex-shrink: 0;
+    border-radius: 2px;
+    background: #FF6464;
+    margin: 400px 400px;
+    color: white;
+
+}
+.newBlock {
+    width: 100%; /* Или укажите нужную ширину */
+    height: 500px; /* Или укажите нужную высоту */
+    background: #EDF7FA;
+    margin-top: -850px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.new-block2 {
+    width: 100vw; /* 100% ширины окна браузера */
+    height: 100vh; /* 100% высоты окна браузера */
+    flex-shrink: 0;
+    background: #EDF7FA;
+    margin: 0;
+    margin-top:-300px;
+}
+.new-text2 {
+    color: var(--Dark-Color, #21243D);
+    font-family: Heebo, sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 60px;
+    margin-left: 400px;
+    margin-top: 100px;
+}
+.new-text3 {
+    width: 208px;
+    height: 20px;
+    flex-shrink: 0;
+    color: var(--Secondry, #00A8CC);
+    text-align: right;
+    font-family: Heebo, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: -60px;
+    margin-left: 1037px;
+}
+.new-frame1 {
+    width: 418px;
+    height: 295px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: #FFF;
+    box-shadow: 0px 4px 10px 0px rgba(187, 225, 250, 0.25);
+    margin-top: -670px;
+    margin-left: 400px;
+}
+.new-text4 {
+    width: 374px;
+    height: 85px;
+    flex-shrink: 0;
+    color: var(--Dark-Color, #21243D);
+    font-family: Heebo, sans-serif;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: -270px;
+    margin-left: 428px;
+}
+.new-text5 {
+    width: 374px;
+    height: 34px;
+    flex-shrink: 0;
+    color: var(--Dark-Color, #21243D);
+    font-family: Heebo, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: -10px;
+    margin-left: 430px;
+}
+.stick{
+    width: 50px;
+    height: 50px;
+    flex-shrink: 0;
+    stroke-width: 1px;
+    stroke: #000;
+    margin-top: -50px;
+    margin-left: 550px;
+}
+.new-text6{
+    width: 374px;
+    height: 34px;
+    flex-shrink: 0;
+    color: var(--Dark-Color, #21243D);
+    font-family: Heebo, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: -69px;
+    margin-left: 573px;
+}
+.new-text7{
+width: 368px;
+height: 117px;
+flex-shrink: 0;
+color: var(--Dark-Color, #21243D);
+font-family: Heebo;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+    margin-top: -7px;
+    margin-left: 430px;
+}
+
+
+
+
+
+.new-frame2 {
+    width: 418px;
+    height: 295px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: #FFF;
+    box-shadow: 0px 4px 10px 0px rgba(187, 225, 250, 0.25);
+    margin-top: -303px;
+    margin-left: 830px;
+}
+.second-text11 {
+    width: 374px;
+    height: 85px;
+    flex-shrink: 0;
+    color: var(--Dark-Color, #21243D);
+    font-family: Heebo;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: norma1;
+    margin-left: 850px;
+    margin-top: -275px;
+}
+.second-text22 {
+    width: 374px;
+    height: 85px;
+    flex-shrink: 0;
+    color: var(--Dark-Color, #21243D);
+    font-family: Heebo;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 850px;
+    margin-top: -10px;
+}
+
+.stick33{
+    width: 50px;
+    height: 50px;
+    flex-shrink: 0;
+    stroke-width: 1px;
+    stroke: #000;
+    margin-top: -100px;
+    margin-left: 980px;
+}
+.new-text44{
+    width: 374px;
+    height: 34px;
+    flex-shrink: 0;
+    color: var(--Dark-Color, #21243D);
+    font-family: Heebo, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: -69px;
+    margin-left: 1005px;
+}
+.new-text55 {
+    width: 368px;
+    height: 117px;
+    flex-shrink: 0;
+    color: var(--Dark-Color, #21243D);
+    font-family: Heebo;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: -7px;
+    margin-left: 850px;
+}
+
+
+
+
+
+
+
+
+
+.new-block3 {
+    width: 1152px;
+    height: 1000px;
+    background: #FFF;
+    margin-top: 3000px;
+    margin-left: 500px;
+    align-items: center;
+
+}
+.new-text66{
+    color: var(--Dark-Color, #21243D);
+    font-family: Heebo;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 60px;
+    margin-top: -3580px;
+    margin-left: 400px;
+}
+.header-long1{
+    width: 246px;
+    height: 180px;
+    flex-shrink: 0;
+    Style
+    border-radius: 6px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    margin-left: 398px;
+}
+.new-text77{
+    color: var(--Dark-Color, #21243D);
+    font-family: Heebo;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: -190px;
+    margin-left: 660px;
+}
+.styled-button33 {
+    width: 62px;
+    height: 25px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background: #142850;
+    color: #ffffff;
+    text-align: center;
+    line-height: 25px;
+    cursor: pointer;
+    border: none;
+    margin-left: 660px;
+    margin-top: -500px;
+}
+.new-text88{
+    width: 374px;
+    height: 34px;
+    flex-shrink: 0;
+    color: var(--Light, #8695A4);
+    font-family: Heebo;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: -30px;
+    margin-left: 750px;
+}
+.new-text99{
+    width: 594px;
+    height: 93px;
+    flex-shrink: 0;
+    color: var(--Dark-Color, #21243D);
+    font-family: Heebo;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 670px;
+}
+.new-text10{
+    width: 858px;
+    height: 0px;
+    flex-shrink: 0;
+    stroke-width: 1px;
+    stroke: var(--Gray-5, #E0E0E0);
+}
+.horizontal-line {
+    width: 100vw; /* 100% ширины видимой области страницы */
+    height: 0px;
+    flex-shrink: 0;
+    border-bottom: 1px solid var(--Gray-5, #E0E0E0);
+    margin-top: -10px;
+}
+.header-long2{
+    width: 246px;
+    height: 180px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    margin-top: 50px;
+    margin-left: 400px;
+}
+.new-text11{
+    color: var(--Dark-Color, #21243D);
+    font-family: Heebo;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: -185px;
+    margin-left: 665px;
+}
+.styled-button12 {
+    width: 62px;
+    height: 25px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background: #142850;
+    color: #ffffff;
+    text-align: center;
+    line-height: 25px;
+    cursor: pointer;
+    border: none;
+    margin-left: 660px;
+    margin-top: -500px;
+}
+.new-text13{
+    width: 374px;
+    height: 34px;
+    flex-shrink: 0;
+    color: var(--Light, #8695A4);
+    font-family: Heebo;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: -30px;
+    margin-left: 760px;
+}
+.new-text14{
+    width: 594px;
+    height: 93px;
+    flex-shrink: 0;
+    color: var(--Dark-Color, #21243D);
+    font-family: Heebo;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 670px;
+    margin-top: -110px;
+}
+.horizontal-line2{
+    width: 100vw; /* 100% ширины видимой области страницы */
+    height: 0px;
+    flex-shrink: 0;
+    border-bottom: 1px solid var(--Gray-5, #E0E0E0);
+    margin-top: 25px;
+}
+.header-long3{
+    width: 246px;
+    height: 180px;
+    flex-shrink: 0;
+    border-radius: 6px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    margin-top: 50px;
+    margin-left: 400px;
+}
+.new-text15{
+    color: var(--Dark-Color, #21243D);
+    font-family: Heebo;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: -190px;
+    margin-left: 680px;
+}
+.styled-button13{
+    width: 62px;
+    height: 25px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background: #142850;
+    color: #ffffff;
+    text-align: center;
+    line-height: 25px;
+    cursor: pointer;
+    border: none;
+    margin-left: 670px;
+    margin-top: -500px;
+}
+.new-text16{
+    width: 374px;
+    height: 34px;
+    flex-shrink: 0;
+    color: var(--Light, #8695A4);
+    font-family: Heebo;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: -30px;
+    margin-left: 760px;
+}
+.new-text17{
+    width: 594px;
+    height: 93px;
+    flex-shrink: 0;
+    color: var(--Dark-Color, #21243D);
+    font-family: Heebo;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 670px;
+    margin-top: -110px;
+}
+.horizontal-line4{
+    idth: 100vw; /* 100% ширины видимой области страницы */
+    height: 0px;
+    flex-shrink: 0;
+    border-bottom: 1px solid var(--Gray-5, #E0E0E0);
+    margin-top: 25px;
+}
+.header-long5 {
+    width: 30px;
+    height: 30px;
+    flex-shrink: 0;
+    fill: var(--Dark, #21243D);
+    margin-top: 100px;
+    margin-left: 1000px
+}
+
+
+
+
+
+
+
+
+.header-long30{
+    width: 36.923px;
+    height: 30px;
+    flex-shrink: 0;
+    margin-top: -30px;
+    margin-left:768px;
+}
+.header-long45{
+    width: 30px;
+    height: 30px;
+    flex-shrink: 0;
+    fill: var(--Dark, #21243D);
+    margin-top: -30px;
+    margin-left: 830px;
+}
+.new-text56{
+    color: var(--Dark, #21243D);
+    text-align: center;
+    font-family: Heebo;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+
+
+}
+.header-long7{
+     width: 30px;
+     height: 30px;
+     flex-shrink: 0;
+     fill: var(--Dark, #21243D);
+     margin: -500px;
+    margin-left: 500px;
+ }
+
+.header-long62{
+    width: 30px;
+    height: 30px;
+    flex-shrink: 0;
+    fill: var(--Dark, #21243D);
+    margin-top: -30px;
+    margin-left: 640px;
+}
+.header-long28{
+    width: 30px;
+    height: 30px;
+    flex-shrink: 0;
+    margin-top: 100px;
+    margin-left: 705px;
+}
+.new-text68{
+    color: var(--Dark, #21243D);
+    text-align: center;
+    font-family: Heebo;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 20px;
+}
